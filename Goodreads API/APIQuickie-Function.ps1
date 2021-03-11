@@ -1,6 +1,6 @@
 ﻿<#
 .Synopsis
-   Reading is good. Enter: Goodreads (bum bum bum!)
+   Reading is good. Enter: Goodreads (bum bum bum)
 .DESCRIPTION
    Probably the most amazing function we've ever seen. Super useful and something we'll remember for the rest of our lives. You can quickly use the Goodreads API to get user, author, books, or books by author.
 .ENDPOINT
