@@ -31,7 +31,7 @@ function API-Quickie{
         $Criteria
     )
     Begin{
-        $Key = '3ZjCCwF94iXQHUzceAdkA'
+        $Key = 'XXXXXXXXXX'
         $KeyString = "key=$Key"
         $BaseURL = 'https://www.goodreads.com/'
     }
